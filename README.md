@@ -11,4 +11,4 @@ Este aplicativo é um joguinho que adivinha o destino das perguntas feito pelo u
 </div>
 <br/>
 
-### [Link para a Pàgina]( "Fate Guesser")
+### [Link para a Pàgina](https://luca-merighi.github.io/Maratona-Explorer/ "Fate Guesser")
